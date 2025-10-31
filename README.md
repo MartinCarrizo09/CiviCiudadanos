@@ -1,7 +1,7 @@
-# 🚦 CiviTrack — Sistema Integral de Control Vehicular (Kotlin + Spring Boot)
+# 🚦 CiviCiudadanos — Sistema Integral de Control Vehicular (Kotlin + Spring Boot)
 
 ## 📘 Descripción general  
-**CiviTrack** es una aplicación backend desarrollada en **Kotlin con Spring Boot**, orientada al registro y seguimiento de infracciones, licencias y movimientos vehiculares.  
+**CiviCiudadanos** es una aplicación backend desarrollada en **Kotlin con Spring Boot**, orientada al registro y seguimiento de infracciones, licencias y movimientos vehiculares.  
 Permite gestionar conductores, calcular puntos por infracción, consultar historial de sanciones y validar habilitaciones en tiempo real mediante una API REST moderna.
 
 Está diseñado para integrarse con sistemas externos (como apps móviles o portales de gestión ciudadana) y puede conectarse a servicios de mapas para calcular ubicaciones de control o puntos de detección.
@@ -31,8 +31,8 @@ Está diseñado para integrarse con sistemas externos (como apps móviles o port
 ## 🧩 Arquitectura del proyecto  
 
 ```
-civitrack/
-├── src/main/kotlin/com/civitrack/
+civiCiudadanos/
+├── src/main/kotlin/com/civiCiudadanos/
 │   ├── controller/
 │   ├── service/
 │   ├── repository/
